@@ -15,9 +15,9 @@ image:
 ---
 
 
-## Introduction
 
-A a NPM module designed for converting images to binary data, storing them in IndexedDB, and retrieving and converting them back to images. It's an ideal solution for web applications that require efficient image handling and storage using browser technologies.
+
+**A a NPM module designed for converting images to binary data, storing them in IndexedDB, and retrieving and converting them back to images. It's an ideal solution for web applications that require efficient image handling and storage using browser technologies.**
 
 ## Transform Your Web App's Image Management
 
