@@ -3,8 +3,8 @@ title: ImageBinDB ✶
 description: Essential for Local Image Handling in Browsers and PWAs
 author: cotes
 date: 2023-10-28 11:33:00 +0800
-categories: [tools, NPM, javascript]
-tags: [Documation, javascript, npm, parser,]
+categories: [Blogging, Demo]
+tags: [typography]
 pin: true
 math: true
 mermaid: true
