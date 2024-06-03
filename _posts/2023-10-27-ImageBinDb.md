@@ -3,8 +3,8 @@ title: ImageBinDB ✶
 description: Essential for Local Image Handling in Browsers and PWAs
 author: cotes
 date: 2023-10-28 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+categories: []
+tags: []
 pin: true
 math: true
 mermaid: true
