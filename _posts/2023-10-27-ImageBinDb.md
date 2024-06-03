@@ -15,10 +15,6 @@ image:
 ---
 
 
-# ImageBinDB ✶
-
-![bin](https://github.com/vishakh-abhayan/ImageBinDB/assets/94307781/6ebf1f13-dfa1-4adb-afff-0767b9868b26)
-
 ## Introduction
 
 A a NPM module designed for converting images to binary data, storing them in IndexedDB, and retrieving and converting them back to images. It's an ideal solution for web applications that require efficient image handling and storage using browser technologies.
